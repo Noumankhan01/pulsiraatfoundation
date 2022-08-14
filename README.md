@@ -1,0 +1,2 @@
+# pulsiraatfoundation
+This is my final year project based on React Js and Blockchain. Actually it's a donation website through crypto and Metamask. How to Make a Donation​ Once you have chosen a project and set an amount to donate, go ahead and click the Donate button. This should bring up a pop-up window from Metamask to confirm the transaction details. Verify that the amount on the Metamask pop-up corresponds with the amount you specified on the project page. Thanks You.
